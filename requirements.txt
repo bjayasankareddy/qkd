@@ -1,0 +1,13 @@
+flask
+
+flask-cors
+
+cryptography
+
+python-dotenv
+
+supabase
+
+qiskit
+
+gunicorn
